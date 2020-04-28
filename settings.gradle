@@ -1,0 +1,2 @@
+rootProject.name='MonstersSQLiteStarter'
+include ':app'
