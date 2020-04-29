@@ -18,5 +18,8 @@ starter project to work with sqlite
 ## Android - SQLite
 ![untitled_page](https://user-images.githubusercontent.com/4823319/80556976-b93f4100-8a18-11ea-83bd-12104e0fd650.png)
 
+## Main Activity
+![Screenshot_1587993769](https://user-images.githubusercontent.com/4823319/80557743-4aafb280-8a1b-11ea-96da-26b44c3d4f8d.png)
+
 ## Scrolling Activity (Add Monster)
 ![Screenshot_1587993782](https://user-images.githubusercontent.com/4823319/80557404-2acbbf00-8a1a-11ea-8c1a-31f16572a624.png)
