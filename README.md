@@ -21,5 +21,5 @@ starter project to work with sqlite
 ## Main Activity
 ![Screenshot_1587993769](https://user-images.githubusercontent.com/4823319/80557743-4aafb280-8a1b-11ea-96da-26b44c3d4f8d.png)
 
-## Scrolling Activity (Add Monster)
+## Scrolling Activity (AddMonsterScrollingActivity)
 ![Screenshot_1587993782](https://user-images.githubusercontent.com/4823319/80557404-2acbbf00-8a1a-11ea-8c1a-31f16572a624.png)
