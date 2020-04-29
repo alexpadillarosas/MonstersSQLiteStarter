@@ -108,14 +108,6 @@ public class MonsterDatabaseHelper extends SQLiteOpenHelper {
     }
 
     /**
-     * @return  A cursor of all monsters in the table called monster.
-     */
-    private Cursor getAll() {
-        SQLiteDatabase db = this.getReadableDatabase();
-        return db.rawQuery(GET_ALL_ST, null);
-    }
-
-    /**
      * Update a monster record in the database
      * @param id            Primary key of the monster
      * @param name          New Monster's name
@@ -183,6 +175,14 @@ public class MonsterDatabaseHelper extends SQLiteOpenHelper {
         }
         cursor.close();
         return monsters;
+    }
+
+    /**
+     * @return  A cursor of all monsters in the table called monster.
+     */
+    private Cursor getAll() {
+        SQLiteDatabase db = this.getReadableDatabase();
+        return db.rawQuery(GET_ALL_ST, null);
     }
 
 }

@@ -4,7 +4,10 @@ import java.io.Serializable;
 
 public class Monster implements Serializable {
 
-    public static final String MONSTER_KEY = "monster_key";
+    /**
+     * TODO: create a KEY constant to identify the monster passed between Activities.
+     *       Call it  MONSTER_KEY and give it the value "monster_key"
+     */
 
     private Long id;
     private String name;
