@@ -1,5 +1,7 @@
 <resources>
+    <!--    https://material.io/develop/android/components/buttons/-->
 
+    <!-- TODO:  Assign the parent value: Theme.MaterialComponents.Light.DarkActionBar  -->
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
