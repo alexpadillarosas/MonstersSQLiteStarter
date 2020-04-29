@@ -15,3 +15,8 @@ starter project to work with sqlite
   - Previous knowledge of SQL
   - Intents
   - Constraint Layout
+## Android - SQLite
+![untitled_page](https://user-images.githubusercontent.com/4823319/80556976-b93f4100-8a18-11ea-83bd-12104e0fd650.png)
+
+## Scrolling Activity (Add Monster)
+![Screenshot_1587993782](https://user-images.githubusercontent.com/4823319/80557404-2acbbf00-8a1a-11ea-8c1a-31f16572a624.png)
